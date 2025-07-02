@@ -1,0 +1,5 @@
+[project]
+name = "github-readme-crisp-links"
+version = "0.1.0"
+description = "🌈 Cleaner GitHub README link text. CLI + web app."
+requires-python = ">=3.10"
